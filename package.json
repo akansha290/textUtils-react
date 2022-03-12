@@ -1,6 +1,6 @@
 {
-  "homepage": "https://akansha290.github.io/textUtils",
-  "name": "my-app",
+  "homepage": "https://akansha290.github.io/textUtils-react",
+  "name": "textUtils-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

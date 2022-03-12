@@ -64,7 +64,7 @@ export default function About(props) {
                 </div>
                 <div className="accordion-item">
                     <h2 className="accordion-header" id="headingThree">
-                    <button className="accordion-button collapsed" style={myStyle} type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <button className="accordion-button collapsed btn-about" style={myStyle} type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                         <strong>Browser Compatibility</strong>
                     </button>
                     </h2>

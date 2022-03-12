@@ -42,21 +42,11 @@
   border: 0px;
 }
 
-/* .btn-light{
-  background-color: white;
-  color: #33b0ec;
-  border-color: #33b0ec;
-}
-.btn-light:hover{
-  background-color: #33b0ec;
-  color: white;
-}
-.btn-dark{
-  background-color: darkblue;
-  color: white;
-} */
-
 *{
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-tap-highlight-color: transparent; /* For some Androids */
+}
+
+.btn-about{
+  background-color: #3D2C8D;
 }
